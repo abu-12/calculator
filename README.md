@@ -9,4 +9,9 @@ A basic calculator app with a focus on design. This project demonstrates my lear
 - Hover effects for buttons
 - Custom button and screen styling
 
+ ## Live Demo
+
+You can view the live demo of this project at [Live Demo](https://abu-12.github.io/calculator/).
+
+
 
